@@ -1,0 +1,3 @@
+/usr/bin/bash: wq: command not found
+/usr/bin/bash: Q: command not found
+ccccc
